@@ -24,13 +24,17 @@ The project explores probabilistic prediction systems, sequential pattern analys
 ## Example Gameplay
 ```txt
 Let's play Rock-Paper-Scissors!
+Recommended Opening: R
+Enter the current game state (e.g., RP, PS) where the first letter is your move and the second letter is the opponent's move.
 
 --- Round 1 ---
-Game State: RP
-You - 1, Opponent - 0
+Game State: RR
+You - 0, Opponent - 0
+Game state RR has counts [93, 80, 111]
+Opponent will play S. Counter with R.
 
-Game state PR has counts [5, 12, 3]
-Opponent will play P. Counter with S.
+--- Round 2 ---
+Game State: 
 ```
 
 ## Files
