@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
+
+# Generated model files
+markov
+markov1
+markov1test
+finetunedmarkov.json
+
+# Logs
+*.log
